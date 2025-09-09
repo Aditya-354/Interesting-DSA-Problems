@@ -8,4 +8,4 @@ This repo contains various DSA problems solved from different platforms like Lee
 
 ## Folders
 
-- `Arrays/` - Problems related to arrays
+- [Arrays](https://github.com/Aditya-354/Interesting-DSA-Problems/tree/main/Arrays) - Problems related to arrays
