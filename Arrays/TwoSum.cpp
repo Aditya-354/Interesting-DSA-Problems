@@ -37,7 +37,7 @@ public:
                 return {mp[diff], (int)i};   
 
 
-            // if false, store the current value in the map along with it's index 
+            // if false, store the current value in the map along with its index 
             mp[nums[i]] = i;   
         }
 
