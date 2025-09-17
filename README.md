@@ -21,3 +21,14 @@ My preferred language: C++
 
 **Space complexity:** O(n)
 
+
+
+- [Missing in Array](https://github.com/Aditya-354/DSA-Problems-Solved/blob/main/Arrays/Missing_in_Array.cpp)
+
+**Platform:** [GeeksforGeeks](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1?page=1&category=Arrays,CPP&difficulty=Easy&sortBy=submissions)
+
+**Approach:** Simple for loop. Declare the variables as long long
+
+**Time Complexity:** O(n)
+
+**Space Complexity:** O(1)
