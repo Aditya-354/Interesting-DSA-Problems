@@ -2,6 +2,8 @@
 
 This repo contains various DSA problems solved from different platforms like LeetCode, GfG, etc. with structured and super-beginner-freindly documentation.
 
+My preferred language: C++
+
 
 ---
 
@@ -19,3 +21,4 @@ This repo contains various DSA problems solved from different platforms like Lee
 
 **Space complexity:** O(n)
 
+**Explaination:** This is [Two-Sum](https://github.com/Aditya-354/Interesting-DSA-Problems/blob/main/Arrays/TwoSum.cpp) problem from LeetCode.
