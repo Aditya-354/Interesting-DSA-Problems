@@ -28,7 +28,7 @@ public:
         {
 
             // store the difference to later find in the map
-            int diff = target - nums[i]; 
+            size_t diff = target - nums[i]; 
 
             // check if the diff is present in the map
             if (mp.find(diff) != mp.end())  
@@ -52,10 +52,10 @@ int main()
 
      // You can change the array elements
      // Expected output for this test case: [0, 1]
-    std::vector<int> arr = {9, 0, 4, 8}; 
+    std::vector<int> arr = {3, 2, 4}; 
 
     // This will be the target value. Can be changed based on the array elements.
-    int T = 9;  
+    int T = 6;  
 
      // store the returned value in a vector<int> variable
     std::vector<int> result = s.twoSum(arr, T);  
