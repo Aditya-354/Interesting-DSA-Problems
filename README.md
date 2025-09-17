@@ -1,4 +1,4 @@
-# DSA PROBLEMS SOLVED
+# DSA PRACTICE IN C++
 
 This repo contains various DSA problems solved from different platforms like LeetCode, GfG, etc. with structured and super-beginner-freindly documentation.
 
