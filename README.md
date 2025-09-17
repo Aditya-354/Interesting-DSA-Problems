@@ -21,4 +21,3 @@ My preferred language: C++
 
 **Space complexity:** O(n)
 
-**Explaination:** This is [Two-Sum](https://github.com/Aditya-354/Interesting-DSA-Problems/blob/main/Arrays/TwoSum.cpp) problem from LeetCode.
