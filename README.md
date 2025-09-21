@@ -16,7 +16,7 @@ My preferred language: C++
 ## Arrays
 
 [Arrays](https://github.com/Aditya-354/Interesting-DSA-Problems/tree/main/Arrays) are ADTs (Abstract Data Types)
-- [Two - Sum](https://github.com/Aditya-354/Interesting-DSA-Problems/blob/main/Arrays/TwoSum.cpp)
+* [Two - Sum](https://github.com/Aditya-354/Interesting-DSA-Problems/blob/main/Arrays/TwoSum.cpp)
 
 **Platform:** [LeetCode](https://leetcode.com/problems/two-sum/description/)
 
