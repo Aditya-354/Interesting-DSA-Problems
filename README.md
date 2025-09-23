@@ -10,7 +10,7 @@ My preferred language: C++
 
 **PROBLEMS SOLVED:**
 
-[Arrays](https://github.com/Aditya-354/Interesting-DSA-Problems/tree/main/Arrays) : **$$6$$**
+[Arrays](https://github.com/Aditya-354/Interesting-DSA-Problems/tree/main/Arrays) : **$$7$$**
 
 
 ## Arrays
@@ -83,5 +83,17 @@ My preferred language: C++
 **Approach:** Searching
 
 **Time Complexity:** $$O(n)$$
+
+**Space Complexity:** $$O(1)$$
+
+
+
+- [First Occurrance in a String](https://github.com/Aditya-354/DSA-Problems-Solved/blob/main/Arrays/First_Occurance_in_String.cpp)
+
+**Platform:** [LeetCode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+
+**Approach:** Two Pointers, string matching
+
+**Time Complexity:** $$O(m * n)$$
 
 **Space Complexity:** $$O(1)$$
