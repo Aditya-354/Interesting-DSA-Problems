@@ -29,7 +29,7 @@ int main()
 {
     Solution s;
     string haystack = "leetcacode";
-    string needle = "leeto";
+    string needle = "code";
 
     int index = s.strStr(haystack, needle);
     cout << index << endl;
