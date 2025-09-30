@@ -10,7 +10,7 @@ My preferred language: C++
 
 **PROBLEMS SOLVED:**
 
-[Arrays](https://github.com/Aditya-354/Interesting-DSA-Problems/tree/main/Arrays) : **$$7$$**
+[Arrays](https://github.com/Aditya-354/Interesting-DSA-Problems/tree/main/Arrays) : **$8$$**
 
 
 ## Arrays
@@ -78,7 +78,7 @@ My preferred language: C++
 
 
 
-6. [Second Largest](https://github.com/Aditya-354/DSA-Problems-Solved/blob/main/Arrays/Second_Largest.cpp)
+**6.** [Second Largest](https://github.com/Aditya-354/DSA-Problems-Solved/blob/main/Arrays/Second_Largest.cpp)
 
 **Platform:** [GeeksforGeeks](https://www.geeksforgeeks.org/problems/second-largest3735/1?page=1&category=Arrays,CPP&difficulty=Easy&sortBy=submissions)
 
@@ -97,5 +97,17 @@ My preferred language: C++
 **Approach:** Two Pointers, string matching
 
 **Time Complexity:** $$O(m * n)$$
+
+**Space Complexity:** $$O(1)$$
+
+
+
+**8.** [Array Leaders](https://github.com/Aditya-354/DSA-Problems-Solved/blob/main/Arrays/Array_Leaders.cpp)
+
+**Platform:** [GeeksforGeeks](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1?page=1&category=Arrays,CPP&difficulty=Easy&sortBy=submissions)
+
+**Approach:** searching
+
+**Time Complexity:** $$O(n)$$
 
 **Space Complexity:** $$O(1)$$
